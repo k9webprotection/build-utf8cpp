@@ -1,0 +1,3 @@
+[submodule "utf8cpp"]
+	path = utf8cpp
+	url = https://github.com/k9webprotection/utf8cpp.git
