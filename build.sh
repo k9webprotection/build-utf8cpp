@@ -83,7 +83,7 @@ case "${TARGET}" in
         do_clean
         ;;
     "package")
-        do_package $@
+        do_package "$@"
         ;;
     *)
         print_usage "Missing/invalid target '${TARGET}'"
