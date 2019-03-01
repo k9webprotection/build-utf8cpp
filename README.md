@@ -1,6 +1,6 @@
 ## UTF8-CPP Packaging ##
 
-This project provides a script which will package UTF8-CPP in a similar manner to the other `build-*` projects.  It contains as a submodule, [toonetown/utf8cpp][utf8cpp-release] git project.
+This project provides a script which will package UTF8-CPP in a similar manner to the other `build-*` projects.  It contains as a submodule, [utf8cpp][utf8cpp-release] git project.
 
 [utf8cpp-release]: https://github.com/toonetown/utf8cpp
 

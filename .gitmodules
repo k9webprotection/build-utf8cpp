@@ -1,3 +1,3 @@
 [submodule "utf8cpp"]
 	path = utf8cpp
-	url = https://github.com/toonetown/utf8cpp.git
+	url = ../utf8cpp.git
